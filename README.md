@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Deployed here [https://630b3a7ba5277f2b47062be2--akvelon.netlify.app](https://630b3a7ba5277f2b47062be2--akvelon.netlify.app)
+Deployed [here](https://akvelon.netlify.app)
 
 ## Available Scripts
 
